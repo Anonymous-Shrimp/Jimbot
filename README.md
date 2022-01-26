@@ -1,2 +1,2 @@
 # Jimbot
- Waste of time
+ Waste of time. Discord
