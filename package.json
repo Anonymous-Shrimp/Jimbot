@@ -1,14 +1,23 @@
 {
-  "name": "Jimbot",
+  "name": "jimbot",
   "version": "1.0.0",
-  "description": "",
+  "description": "Waste of time. Discord bot",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Anonymous-Shrimp/Jimbot.git"
+  },
   "author": "AnonymousShrimp",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Anonymous-Shrimp/Jimbot/issues"
+  },
+  "homepage": "https://github.com/Anonymous-Shrimp/Jimbot#readme",
   "dependencies": {
-    "discord.js": "^13.6.0"
+    "discord.js": "^13.6.0",
+    "node": "^16.13.2"
   }
 }
